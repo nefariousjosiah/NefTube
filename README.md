@@ -4,4 +4,4 @@
 
 # inserting a YouTube link into the text box would immediately download a MP4 version of the video you want.
 
-## if an error occurs, a pop up with come on the screen indicating what the error specifically was.
+## If an error occurs, a pop-up will appear on the screen indicating what the specific error was.

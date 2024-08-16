@@ -42,6 +42,3 @@ download = customtkinter.CTkButton(app, text="Download", command= startDownload)
 download.pack(padx= 10, pady= 10)
 
 app.mainloop()
-
-
-# code for compling py -m PyInstaller --onefile --icon=favicon.ico index.py
